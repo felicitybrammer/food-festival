@@ -9,7 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.1",
+    "popper": "^1.0.1",
+    "poppers": "^0.1.2",
     "save": "^2.4.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felicitybrammer/food-festival.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/felicitybrammer/food-festival/issues"
+  },
+  "homepage": "https://github.com/felicitybrammer/food-festival#readme"
 }
